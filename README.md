@@ -82,6 +82,8 @@ if __name__ == "__main__":
 
     gui.run(dark_mode=False, port=3559, title="Taipy Scikit Demo App")
 ```
+![image](https://github.com/Horlando-Leao/datascience_models_experiments/assets/52044729/5b6e810a-fb34-4166-a0ed-717014fdb3f5)
+
 
 ## Estrutura do Código
 1. Inicialização e Configuração:

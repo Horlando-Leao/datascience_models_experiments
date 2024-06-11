@@ -105,3 +105,5 @@ if __name__ == "__main__":
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
+# CREDITS: https://blog.dailydoseofds.com/p/taipy-scikit-learn-app
+
